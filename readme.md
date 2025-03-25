@@ -17,5 +17,5 @@ This project implements a simple calculator microservice built with Node.js and 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/sit737-2025-prac4p.git
+git clone https://github.com/s223623837/sit737-2025-prac4p.git
 cd sit737-2025-prac4p
