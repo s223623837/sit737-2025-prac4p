@@ -1,0 +1,2 @@
+{"duration":"3ms","ip":"::1","level":"error","message":"GET /favicon.ico completed","method":"GET","query":{},"service":"calculator-microservice","status":404,"timestamp":"2025-03-25T07:10:39.474Z","url":"/favicon.ico"}
+{"duration":"1ms","ip":"::1","level":"error","message":"GET /subtract completed","method":"GET","query":{"num1":"3","num2":"asdasd"},"service":"calculator-microservice","status":400,"timestamp":"2025-03-25T07:11:48.618Z","url":"/subtract?num1=3&num2=asdasd"}
