@@ -14,7 +14,7 @@ This project is a simple calculator microservice developed for SIT737 Cloud Nati
 - [Visual Studio Code](https://code.visualstudio.com/) or any IDE
 
 ## Step-by-Step Process Undertaken
-Below is the detailed process I followed to build this microservice, covering Parts I, II, and III of the task sheet.
+Below is the detailed process I followed to build this microservice, covering Parts I, II of the task sheet.
 
 ## **Part I: Basic Arithmetic Operations**  
 
