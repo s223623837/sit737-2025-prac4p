@@ -31,3 +31,8 @@ Below is the detailed process I followed to build this microservice, covering Pa
      ```bash
      mkdir sit737-2025-prac4p
      cd sit737-2025-prac4p
+### Part III: Add Logging
+1. **Install Winston Logging Library**:  
+   - I installed Winston to add logging capabilities to the microservice where I used Express for server:  
+     ```bash
+     npm install winston
